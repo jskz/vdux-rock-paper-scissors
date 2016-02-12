@@ -9,3 +9,5 @@ npm install -g budo babelify
 npm install
 npm start
 ```
+
+Visit [http://localhost:9966/](http://localhost:9966/) to play!
