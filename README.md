@@ -11,3 +11,5 @@ npm start
 ```
 
 Then visit [http://localhost:9966/](http://localhost:9966/) to play!
+
+![RPS example with vdux](http://i.imgur.com/eZ9Xe9q.png)
