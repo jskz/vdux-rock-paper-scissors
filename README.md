@@ -10,4 +10,4 @@ npm install
 npm start
 ```
 
-Visit [http://localhost:9966/](http://localhost:9966/) to play!
+Then visit [http://localhost:9966/](http://localhost:9966/) to play!
